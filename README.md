@@ -198,6 +198,8 @@ New to prompt engineering? Follow this path:
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) [2021]
 - [DALL·E: Creating Images from Text](https://arxiv.org/abs/2102.12092) [2021]
 - [Investigating Prompt Engineering in Diffusion Models](https://arxiv.org/abs/2211.15462) [2022]
+- [Awesome AI Image Prompts Framework](https://github.com/shadowchaser99at-bit/awesome-ai-image-prompts) [2026]
+
 
 ### Text-to-Music/Audio Generation
 
